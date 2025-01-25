@@ -5,7 +5,7 @@ The p-adic cellular neural networks (CNNs) are mathematical generalizations of t
 In this article we introduce the p-adic cellular neural networks which are mathematical generalizations of the classical cellular neural networks (CNNs) introduced by Chua and Yang. The new networks have infinitely many cells which are organized hierarchically in rooted trees, and also they have infinitely many hidden layers. Intuitively, the p-adic CNNs occur as limits of large hierarchical discrete CNNs. More precisely, the new networks can be very well approximated by hierarchical discrete CNNs. Mathematically speaking, each of the new networks is modeled by one integro-differential equation depending on several p-adic spatial variables and the time. We study the Cauchy problem associated to these integro-differential equations and also provide numerical methods for solving them.
 
 
-## This implemetation of part of the work of p-adic CNN applied to image processing. 
+## This implementation of part of the work of p-adic CNN applied to image processing. 
 
 @article{zambrano2023p,
   title={p-adic cellular neural networks: Applications to image processing},
